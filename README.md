@@ -1,6 +1,6 @@
-#Fun music projecting project :) 
-##Used: 
-* Caluclus
+# Fun music projecting project :) 
+## Used: 
+* Calculus
 * Algebra
 * JavaScript
 * Python
